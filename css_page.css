@@ -1,0 +1,20 @@
+.logo {
+    padding-top: 109px;
+    height: 92px;
+    width: 272px;
+}
+.top_navbar {
+    display: inline-block;
+    float: right;
+    min-width: 165px;
+    line-height: 24px;
+    font-size: 13px;
+    color: #222;
+    font-family: Arial, sans-serif;
+
+}
+#padding {
+    padding-left: 1em;  
+    text-decoration: none;
+    color: #222;
+}
