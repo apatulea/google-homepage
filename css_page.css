@@ -1,19 +1,47 @@
+/*Logo CSS */
+
 .logo {
     padding-top: 109px;
     height: 92px;
     width: 272px;
 }
+
+/*Top-left Navbar CSS */
+
 .top_navbar {
-    display: inline-block;
     float: right;
     min-width: 165px;
     line-height: 24px;
     font-size: 13px;
-    color: #222;
     font-family: Arial, sans-serif;
-
+    margin: 1em;
 }
-#padding {
+
+.top_hover:hover {
+    text-decoration: underline;
+    opacity: .85;
+}
+
+.dot_3:hover {
+    opacity: .85;
+}
+
+.dot_3 {
+    opacity: .55;
+}
+
+.sign_in {
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    border: 1px solid #5889da;
+    background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+    margin-left: 1em;
+    padding: 8px;
+    cursor: default;
+}
+
+.padding {
     padding-left: 1em;  
     text-decoration: none;
     color: #222;
