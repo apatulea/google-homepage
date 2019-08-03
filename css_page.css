@@ -89,6 +89,25 @@
     color: #222;
 }
 
+/*Language option*/
+
+.language {
+    line-height: 28px;
+    color: #222;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+}
+
+.engl {
+    padding: 0 3px;
+    text-decoration: none;
+    color: #1a0dab;
+}
+
+.engl:hover {
+    text-decoration: underline #1a0dab;
+}
+
 /*Footer*/
 
 footer {
