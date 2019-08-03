@@ -105,7 +105,8 @@
 }
 
 .engl:hover {
-    text-decoration: underline #1a0dab;
+    text-decoration: underline;
+    text-decoration-color: #1a0dab;
 }
 
 /*Footer*/
